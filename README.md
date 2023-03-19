@@ -3,7 +3,7 @@ A web tutorial which re-creates the pokedex in a web design using html, css, and
 Note: The purpose of a tutorial is for learning, practice, or experimenting. Therefore it is intended for educational purpose only.<br/>
 <br/>
 You can access the the webpage using the following link:<br/>
-<br/>
+https://muizzkasim.github.io/htmltutorial-pokedex/index.html<br/>
 <br/>
 Original tutorial article from:<br/>
 https://thewebdev.tech/pokedex-js
